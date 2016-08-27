@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mi Primera App</string>
+    <string name="tvTitulo">Actividad 1</string>
+    <string name="tvSubtitulo">Proyecto I</string>
+    <string name="btnClick">Click me!</string>
+    <string name="bienvenido">Welcome</string>
+</resources>
